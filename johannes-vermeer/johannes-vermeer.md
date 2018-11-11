@@ -1,5 +1,10 @@
 # Works by Johannes Vermeer
 
+### National Gallery, London - 2018 October 
+- **A Young Woman seated at a Virginal**, 1670-1672
+- **A Young Woman standing at a Virginal**, 1670-1672
+    - these two are presumptuously a pair and meant to be showned side by side 
+
 ### Rijksmuseum - 2018 Nov 11
 - **Woman reading a letter**, 1663
     - tranquility, overtone if blue

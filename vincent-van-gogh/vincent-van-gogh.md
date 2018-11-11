@@ -1,5 +1,17 @@
 # Works by Vincent Van Gogh
 
+### Musée d'Orsay - 2018 October 
+- **Portrait de L'Artiste / Self-Portrait**, 1889
+
+### Kunsthaus Zurich - 2018 Nov 11
+- **Thatched Sandstone Cottages at Chaponval**, 1890
+- **White Cottages at Saintes-Maries**, 1888
+- **Self-Portrait with Bandaged Ear and Pipe**, 1889
+- **Apricot Trees in Blossom**, 1888
+- **Garden with Weeping Willow: Sunny Lawn in a Public Park (Aries)**, 1888
+- **The Cypress and Flowering Tree**, 1889
+- **Portrait of Patience Escalier**, 1888
+
 ### Van Gogh Museum, Amsterdam - 2018 Nov 11
 
 - **[Avenue of Poars in Autumn](https://www.vangoghmuseum.nl/en/collection/s0141M1977)**, 1884

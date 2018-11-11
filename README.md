@@ -7,48 +7,121 @@ Art notes for works I liked
 ## Artist List
 
 - **[Adam Willaerts](adam-willaerts/adam-willaerts.md)**
+- **[Adriaan Coorte](adriaan-coorte/adriaan-coorte.md)**
+- **[Alberto Giacometti](alberto-giacometti/alberto-giacometti.md)**
+- **[Albrecht Dürer](albrecht-durer/albrecht-durer.md)**
+- **[Alexandre Cabanel](alexandre-cabanel/alexandre-cabanel.md)**
+- **[Andy Warhol](andy-warhol/andy-warhol.md)**
+- **[Ângelo de Sousa](angelo-de-sousa/angelo-de-sousa.md)**
 - **[Anthony Oberman](anthony-oberman/anthony-oberman.md)**
+- **[Arnold Böcklin](arnold-bocklin/arnold-bocklin.md)**
+- **[Auguste Giacometti](auguste-giacometti/auguste-giacometti.md)**
+- **[Auguste Rodin](auguste-rodin/auguste-rodin.md)**
 - **[Banksy](banksy/banksy.md)**
 - **[Bartholomeus van der Helst](bartholomeus-van-der-helst/bartholomeus-van-der-helst.md)**
-- **[Christiaan Andriessen](christiaan-andriessen/christiaan-andriessen.md)**
+- **[Bartolomé Esteban Murillo](bartolome-esteban-murillo/bartolome-esteban-murillo.md)**
+- **[Bartolomeo Montagna](bartolomeo-montagna/bartolomeo-montagna.md)**
+- **[Bernardo Bellotto](bernardo-bellotto/bernardo-bellotto.md)**
 - **[Caesar van Everdingen](caesar-van-everdingen/caesar-van-everdingen.md)**
+- **[Christiaan Andriessen](christiaan-andriessen/christiaan-andriessen.md)**
+- **[Claude Monet](claude-monet/claude-monet.md)**
+- **[Cornelis de Heem](cornelis-de-heem/cornelis-de-heem.md)**
 - **[Cornelis Saftleven](cornelis-saftleven/cornelis-saftleven.md)**
 - **[Damien Hirst](damien-hirst/damien-hirst.md)**
 - **[David Bailly](david-bailly/david-bailly.md)**
+- **[Diego Velázquez](diego-velazquez/diego-velazquez.md)**
 - **[Edgar Degas](edgar-degas/edgar-degas.md)**
+- **[Édouard Manet](edouard-manet/edouard-manet.md)**
+- **[Édouard Vuillard](edouard-vuillard/edouard-vuillard.md)**
+- **[Eduardo Malta](eduardo-malta/eduardo-malta.md)**
 - **[Edvard Munch](edvard-munch/edvard-munch.md)**
+- **[Emillo Vedova](emillo-vedova/emillo-vedova.md)**
+- **[Enrico Castellani](enrico-castellani/enrico-castellani.md)**
+- **[Erwin Wurm](erwin-wurm/erwin-wurm.md)**
+- **[Eugène Delacroix](eugene-delacroix/eugene-delacroix.md)**
+- **[Félix Vallotton](felix-vallotton/felix-vallotton.md)**
+- **[Ferdinand Hodler](ferdinand-hodler/ferdinand-hodler.md)**
+- **[Fernand Léger](fernand-leger/fernand-leger.md)**
+- **[Filippo Lauri](filippo-lauri/filippo-lauri.md)**
 - **[Floris Verster](floris-verster/floris-verster.md)**
+- **[Francis Gruber](francis-gruber/francis-gruber.md)**
 - **[Francisco Goya](francisco-goya/francisco-goya.md)**
 - **[Frans Hals](frans-hals/frans-hals.md)**
+- **[Franz Marc](franz-marc/franz-marc.md)**
 - **[George Hendrik Breitner](george-hendrik-breitner/george-hendrik-breitner.md)**
 - **[Gerard van Honthorst](gerard-van-honthorst/gerard-van-honthorst.md)**
+- **[Giorgio de Chirico](giorgio-de-chirico/giorgio-de-chirico.md)**
+- **[Giovanni Battista Pittoni](giovanni-battista-pittoni/giovanni-battista-pittoni.md)**
+- **[Giovanni Giacometti](giovanni-giacometti/giovanni-giacometti.md)**
+- **[Giovanni Paolo Panini](giovanni-paolo-panini/giovanni-paolo-panini.md)**
 - **[Gustave Courbet](gustave-courbet/gustave-courbet.md)**
+- **[Gustave Moreau](gustave-moreau/gustave-moreau.md)**
+- **[Heinrich Füssli](heinrich-fussli/heinrich-fussli.md)**
 - **[Hendrick Avercamp](hendrick-avercamp/hendrick-avercamp.md)**
+- **[Henri Matisse](henri-matisse/henri-matisse.md)**
+- **[Henrique Franco](henrique-franco/henrique-franco.md)**
+- **[Hieronymus Bosch](hieronymus-bosch/hieronymus-bosch.md)**
 - **[Icy & Sot](icy-and-sot/icy-and-sot.md)**
+- **[James Turrell](james-turrell/james-turrell.md)**
 - **[Jan Asselijn](jan-asselijn/jan-asselijn.md)**
 - **[Jan Davidszoon de Heem](jan-davidszoon-de-heem/jan-davidszoon-de-heem.md)**
 - **[Jan Miense Molenaer](jan-miense-molenaer/jan-miense-molenaer.md)**
 - **[Jan Steen](jan-steen/jan-steen.md)**
+- **[Jan van Eyck](jan-van-eyck/jan-van-eyck.md)**
+- **[Jan van Logteren](jan-van-logteren/jan-van-logteren.md)**
+- **[Jan Weenix](jan-weenix/jan-weenix.md)**
+- **[Jean-Antoine Houdon](jean-antoine-houdon/jean-antoine-houdon.md)**
+- **[Jean Auguste Dominique Ingres](jean-auguste-dominique-ingres/jean-auguste-dominique-ingres.md)**
 - **[Jean-Étienne Liotard](jean-etienne-liotard/jean-etienne-liotard.md)**
+- **[Jean-Léon Gérôme](jean-leon-gerome/jean-leon-gerome.md)**
 - **[Johannes Vermeer](johannes-vermeer/johannes-vermeer.md)**
+- **[José Tagarro](jose-tagarro/jose-tagarro.md)**
+- **[Joseph Kosuth](joseph-kosuth/joseph-kosuth.md)**
+- **[Joseph Mallord Willian Turner](joseph-mallord-william-turner/joseph-mallord-william-turner.md)**
 - **[Lawrence Alma-Tadema](lawrence-alma-tadema/lawrence-alma-tadema.md)**
+- **[Louise Nevelson](louise-nevelson/louise-nevelson.md)**
 - **[Lucas van Leyden](lucas-van-leyden/lucas-van-leyden.md)**
+- **[Mark Rothko](mark-rothko/mark-rothko.md)**
+- **[Matthias Stom](matthias-stom/matthias-stom.md)**
+- **[Mattia Preti](mattia-preti/mattia-preti.md)**
+- **[Maurice Denis](maurice-denis/maurice-denis.md)**
+- **[Michelangelo Merisi / Caravaggio](michelangelo-merisi/michelangelo-merisi.md)**
 - **[OSGEMEOS](osgemeos/osgemeos.md)**
+- **[Oskar Kokoschka](oskar-kokoschka/oskar-kokoschka.md)**
+- **[Oskar Schlemmer](oskar-schlemmer/oskar-schlemmer.md)**
+- **[Otto Tschumi](otto-tschumi/otto-tschumi.md)**
+- **[Pablo Picasso](pablo-picasso/pablo-picasso.md)**
+- **[Paolo Caliari / Véronèse](paolo-caliari/paolo-caliari.md)**
+- **[Paul Cézanne](paul-cezanne/paul-cezanne.md)**
 - **[Paul Gabriël](paul-gabriel/paul-gabriel.md)**
 - **[Paul Gauguin](paul-gauguin/paul-gauguin.md)**
 - **[Peter Paul Rubens](peter-paul-rubens/peter-paul-rubens.md)**
+- **[Philippe de Champaigne](philippe-de-champaigne/philippe-de-champaigne.md)**
+- **[Pierre Bonnard](pierre-bonnard/pierre-bonnard.md)**
+- **[Pieter Claesz](pieter-claesz/pieter-claesz.md)**
 - **[Pieter Jansz. Saenredam](pieter-jansz-saenredam/pieter-jansz-saenredam.md)**
 - **[Rembrandt van Rijn](rembrandt-van-rijn/rembrandt-van-rijn.md)**
+- **[René Magritte](rene-magritte/rene-magritte.md)**
+- **[Robert Delaunay](robert-delaunay/robert-delaunay.md)**
 - **[Roy Lichtenstein](roy-lichtenstein/roy-lichtenstein.md)**
 - **[Salvador Dalí](salvador-dali/salvador-dali.md)**
+- **[Théodore Géricault](theodore-gericault/theodore-gericault.md)**
 - **[Thérèse Schwartze](therese-schwartze/therese-schwartze.md)**
 - **[Thomas Lawrence](thomas-lawrence/thomas-lawrence.md)**
+- **[Tiziano Vecellio / Titien](tiziano-vecellio/tiziano-vecellio.md)**
+- **[Tony Cragg](tony-cragg/tony-cragg.md)**
+- **[Urs Fischer](urs-fischer/urs-fischer.md)**
 - **[Vincent Van Gogh](vincent-van-gogh/vincent-van-gogh.md)**
+- **[Wassily Kandinsky](wassily-kandinsky/wassily-kandinsky.md)**
 - **[Wijnand Nuijen](wijnand-nuijen/wijnand-nuijen.md)**
+- **[Willem de Kooning](willem-de-kooning/willem-de-kooning.md)**
 - **[Willem Roelofs](willem-roelofs/willem-roelofs.md)**
+- **[William Bouguereau](william-bouguereau/william-bouguereau.md)**
 - **[Yayoi Kusama](yayoi-kusama/yayoi-kusama.md)**
+- **[Yves Tanguy](yves-tanguy/yves-tanguy.md)**
 
 -----------
 
 ## Works by Area
+- **[Egype](egypt/egypt.md)**
 - **[Java](java/java.md)**

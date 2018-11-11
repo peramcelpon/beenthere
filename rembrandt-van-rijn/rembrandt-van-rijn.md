@@ -1,6 +1,13 @@
 # Works by Rembrandt Harmenszoon van Rijn
 
-### Rijksmuseum - 2018 Nov 11
+### Museu Calouste Gulbenkian - 2018 October
+- **Figura de Velho / Portrait of an Old Man**, 1645
+- **Pallas Athena**, (with pupil), 1657
+
+### Kunsthaus Zurich - 2018 November
+- **Apostle Simon**, 1661
+
+### Rijksmuseum - 2018 November
 - **The night watch**
     - such immense scale!!!!!!!!
     - detailed characters in the front in contrast to the blurred details in the back - holding his glove with his right hand, garment moving around his body - forward foot indicating motion
