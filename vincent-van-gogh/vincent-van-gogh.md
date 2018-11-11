@@ -54,9 +54,11 @@
 - **[Provençal Orchard](https://www.vangoghmuseum.nl/en/collection/d0441V1962)**, 1888
     - pencil and pen and ink and watercolor on paper; amazing lines 
     
-### Rijksmuseum - 2018 Nov 11
+<img src="https://www.vangoghmuseum.nl/download/02871905-c9d5-4707-bd95-b352057f3204.jpg" width="200">
 
 - **Garden with Butterflies**, 1890
+	- Owned by the Van Gogh Museum
+	- Last seen at Rijksmuseum - 2018 Nov 11
 	- towards end of his life
 	- all about brushstrokes and fluidity
 	- detailed views of the asylum in saint-rémy
