@@ -2,7 +2,7 @@
 
 ### Van Gogh Museum, Amsterdam - 2018 Nov 11
 
-![Avenue of Poars in Autumn](https://www.vangoghmuseum.nl/download/617da610-c84f-4fef-a42b-9c9bcbf0e233.jpg] "Avenue of Poars in Autumn")
+![Avenue of Poars in Autumn](https://www.vangoghmuseum.nl/download/617da610-c84f-4fef-a42b-9c9bcbf0e233.jpg | width=100 "Avenue of Poars in Autumn")
 - **[Avenue of Poars in Autumn](https://www.vangoghmuseum.nl/en/collection/s0141M1977)**, 1884
     - dark palette, abstraction in form, use of lines
     - blended brushstrokes
