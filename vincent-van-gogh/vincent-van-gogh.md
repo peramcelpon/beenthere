@@ -14,9 +14,12 @@
 
 ### Van Gogh Museum, Amsterdam - 2018 Nov 11
 
+<img src="https://www.vangoghmuseum.nl/download/617da610-c84f-4fef-a42b-9c9bcbf0e233.jpg" width="200">
+
 - **[Avenue of Poars in Autumn](https://www.vangoghmuseum.nl/en/collection/s0141M1977)**, 1884
     - dark palette, abstraction in form, use of lines
     - blended brushstrokes
+   
 - **[Still Life with Bible](https://www.vangoghmuseum.nl/en/collection/s0008V1962)**, 1885
     - symbolistic of his relationship with his father -- Bible representing his father and La Joie de vivre representing Van Gogh
     - distorted perspective is reminiscent of Cezanne
@@ -63,9 +66,11 @@
 - **[Provençal Orchard](https://www.vangoghmuseum.nl/en/collection/d0441V1962)**, 1888
     - pencil and pen and ink and watercolor on paper; amazing lines 
     
-### Rijksmuseum - 2018 Nov 11
+<img src="https://www.vangoghmuseum.nl/download/02871905-c9d5-4707-bd95-b352057f3204.jpg" width="200">
 
 - **Garden with Butterflies**, 1890
+	- Owned by the Van Gogh Museum
+	- Last seen at Rijksmuseum - 2018 Nov 11
 	- towards end of his life
 	- all about brushstrokes and fluidity
 	- detailed views of the asylum in saint-rémy
